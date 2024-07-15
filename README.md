@@ -33,7 +33,6 @@ I'm Josh, a Full-Stack Developer and mentor living &amp; working in Louisville, 
 ##### CONTACT
 
 - 💬 &nbsp; Ping me about: clean code, mentoring, collaborating, consulting/freelancing...
-- 🐥 &nbsp; Tweet at me (or follow): [@dreamer3](https://twitter.com/dreamer3)
 - 📫 &nbsp; Email me: [hello@joshgoebel.com](mailto:hello@joshgoebel.com)
 
 <!--- 👯 &nbsp; I’m looking to collaborate on cool stuff-->
