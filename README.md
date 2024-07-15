@@ -1,19 +1,20 @@
 ## Hello there! 👋🏼 👨🏻‍💻
 
-I'm Josh, a Full-Stack Developer and mentor working in Louisville, Kentucky, USA.
+I'm Josh, a Full-Stack Developer and mentor living &amp; working in Louisville, Kentucky, USA.
 
 ##### RECENTLY
 
-- 👨🏻‍💻 &nbsp; Preparing for Highlight.js v12 major release.
-- 🎉 &nbsp; Release [Keyszer](https://github.com/joshgoebel/keyszer) v0.6
-- 🎉 &nbsp; Release [Forgotten Island](https://ajoshguy.itch.io/forgotten-island) text adventure for TALP 2022.
-- ✨ &nbsp; Contribute [WASM support](https://github.com/nesbox/TIC-80/wiki/WASM) to the TIC-80 tiny computer.
+- 🖥 &nbsp; Jul 2024 - Playing with [Zed](https://zed.dev/) in Vim mode and loving it so far. (switching from VS Code)
+- 🎉 &nbsp; July 2024 - Release v11.10 of [Highlight.js](https://highlightjs.org)
+- 🖥 &nbsp; Jun 2024 - Using [tmux]([https://zed.dev/](https://github.com/tmux/tmux/wiki)) daily now and it has saved me (from drowing in ~100 different terminal windows)
+
+(spare emoji: ✨)
 
 ##### CURRENTLY
 
-- 👔  &nbsp; Working as a freelancer and available for hire.
-- 🛠  &nbsp; Maintainer of [Keyszer](https://github.com/joshgoebel/keyszer) project
+- 👔  &nbsp; Helping people get the medicine they need at [CoverMyMeds](https://www.covermymeds.health/)
 - 🛠  &nbsp; Maintainer of [Highlight.js](https://highlightjs.org) project
+- 🛠  &nbsp; Maintainer of [Keyszer](https://github.com/joshgoebel/keyszer) project
 - 🛠  &nbsp; Maintainer (and creator) of the [Exercism Wren Track](https://exercism.org/tracks/wren) and all Exercism's [Wren tooling](https://github.com/exercism/wren#the-exercism-wren-stack)
 - 👨🏻‍🏫  &nbsp; Prolific [Exercism.org](https://exercism.org) mentor and [clean code](https://dev.to/thawkin3/in-defense-of-clean-code-100-pieces-of-timeless-advice-from-uncle-bob-5flk) evangalist _([my profile](https://exercism.org/profiles/ajoshguy))_
 
